@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kokou Armand Light Djossou</h1>
-<h3 align="center">AI & Big Data Student — Generative AI & Machine Learning</h3>
+<table>
+<tr>
+<td width="150">
+<img src="photo.png" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Kokou Armand Light Djossou"/>
+</td>
+<td>
+<h1>Kokou Armand Light Djossou</h1>
+<h3>AI & Machine Learning Engineer</h3>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kokou-light-djossou-90216233b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/l_ight.ai" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://lightdjossou-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nethaniahdjossou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -40,9 +51,10 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🩺 **[PulseAI](https://pulse-34ai.vercel.app)** | AI-driven medical diagnosis & hospital routing prototype for Africa | FastAPI, Mistral, Supabase, Flutter |
+| 🎓 **[Boursio](https://boursio.web.app)** | AI platform helping African students find and apply for scholarships | — |
+| 🩹 **[Miabe Assistant](https://miabe-assistant.web.app)** | Study assistant for STEM students — chatbot plus a library of course materials and exercises | — |
 | 📄 **MedicalBot** | RAG assistant that queries and extracts info from medical documents | Python, ChromaDB |
 | 🍔 **FoodOrderBot** | Conversational agent automating restaurant order-taking | Python, LangChain, Gemini, Chainlit |
-| 🎓 **[FlyAI](https://fly-ai-page.vercel.app)** | AI platform helping African students find and apply for scholarships *(ongoing)* | — |
 | 🚢 **Titanic Predictive Modeling** | Full data science pipeline: EDA, visualization, model training | Pandas, Matplotlib, scikit-learn |
 
 ---
