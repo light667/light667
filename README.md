@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Kokou Armand Light Djossou — AI & Machine Learning Engineer" width="100%"/>
+  <img src="assets/header.svg" alt="Kokou Armand Light DJOSSOU (@light667) — AI & Machine Learning Engineer" width="100%"/>
 </div>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **[Oren](https://oren-agent.vercel.app/)** | AI assistant for small businesses in francophone Africa: a restaurant owner in Lomé uploads a menu photo or a few documents, or answers an AI interview by voice, and gets a customer-facing assistant in under an hour | — |
+| 🧠 **[Oren](https://oren-agent.vercel.app/)** | AI assistant for small businesses in francophone Africa: a restaurant owner in Lomé uploads a menu photo or a few documents, or answers an AI interview by voice, and gets a customer-facing assistant in under an hour | Next.js, TypeScript, Supabase, Tailwind CSS, Meta Model API |
 | 🚢 **Titanic Predictive Modeling** | Full data science pipeline: EDA, visualization, model training | Pandas, Matplotlib, scikit-learn |
 | 🍔 **FoodOrderBot** | Conversational agent automating restaurant order-taking | Python, LangChain, Gemini, Chainlit |
 | 📊 **Credit Scoring** | Machine learning model predicting payment default | Machine Learning |
